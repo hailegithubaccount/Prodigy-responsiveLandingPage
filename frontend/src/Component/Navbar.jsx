@@ -9,7 +9,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto p-4 text-white'>
+    <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto p-4 text-white bg-black'>
       <h1 className='text-3xl font-bold text-[#00df9a] '>react</h1>
       
       {/* Full Navbar for larger screens */}
