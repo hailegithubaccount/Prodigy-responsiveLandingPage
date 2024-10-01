@@ -11,9 +11,9 @@ const Hero = () => {
       <h1 className='md:text-7xl sm:text-6xl font-blod md:py-6 ' >Growth the data</h1>
       <div className='flex justify-center items-center'>
 
-       <p className='md:text-5xl sm:text-4xl font-blod py-2 px-1 '>Fast,flexible financing for =    </p> 
+       <p className='md:text-5xl sm:text-4xl font-blod py-2 px-1 '>The Developer Name is =    </p> 
          <ReactTyped className='md:text-5xl sm:text-4xl font-blod'
-          strings={["ssh", "ssd", "ssw"]}
+          strings={["Haile", "Michael", "Eshetu"]}
           typeSpeed={20}
           backSpeed={30}
           loop
