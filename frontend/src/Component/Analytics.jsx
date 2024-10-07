@@ -8,8 +8,8 @@ const Analytics = () => {
         <img className="px-6 md:w-5/6" src={j} alt="logo" />
       </div>
       <div className='px-3 py-2 md:py-5'>
-        <p className='py-1 text-green-400 font-bold sm:px-[2rem] md:px-[5rem]'>DATA ANALYTICS DASHBOARD</p>
-        <h1 className='py-1 font-bold md:px-[5rem]'>MANAGE DATA ANALYTICS CENTER</h1>
+        <p className='py-1 text-green-400 font-bold sm:px-[2rem] md:px-[5rem]'>Features of our Internships</p>
+        <h1 className='py-1 font-bold md:px-[5rem]'>MANAGE  Internships </h1>
         <p className='px-3 py-2 text-xl'>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem a
           maxime facilis sit debitis impedit aspernatur autem dicta? Blanditiis quasi eum obcaecati non quia minus velit voluptate beatae. Ut, porro.

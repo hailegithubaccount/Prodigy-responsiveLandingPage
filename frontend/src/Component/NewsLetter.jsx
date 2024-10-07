@@ -8,10 +8,12 @@ const NewsLetter = () => {
         {/* Heading and Description */}
         <div className='lg:col-span-1'>
           <h2 className='text-2xl sm:text-3xl md:text-4xl font-bold py-2'>
-            Want the Tricks and the Flow of the News
+          Let’s talk about
+          Love to hear from you!
           </h2>
           <p className='mt-4'>
-            Signup to our newspaper to stay updated with the latest news and exclusive insights.
+          Let’s talk about
+          Love to hear from you!
           </p>
         </div>
 

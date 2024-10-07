@@ -10,7 +10,7 @@ const Navbar = () => {
 
   return (
     <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto p-4 text-white bg-black'>
-      <h1 className='text-3xl font-bold text-[#00df9a] '>react</h1>
+      <h1 className='text-3xl font-bold text-[#00df9a] '>HR - Prodigy InfoTech </h1>
       
       {/* Full Navbar for larger screens */}
       <ul className='hidden md:flex'>
@@ -28,7 +28,7 @@ const Navbar = () => {
 
       {/* Mobile Menu */}
       <div className={nav ? 'fixed left-0 top-0 w-[60%] h-full border-r border-r-gray-900 bg-black ease-in-out duration-500 block md:hidden' : 'fixed left-[-100%] block md:hidden'}>
-        <h1 className='text-3xl font-bold text-[#00df9a] m-4'>react</h1>
+        <h1 className='text-3xl font-bold text-[#00df9a] m-4'>HR - Prodigy InfoTech </h1>
         <ul className='uppercase'>
           <li className='p-4 border-b border-b-gray-900'>Home</li>
           <li className='p-4 border-b border-b-gray-900'>Company</li>
